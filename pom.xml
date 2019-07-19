@@ -18,6 +18,7 @@
     <modules>
         <module>parser</module>
         <module>tools</module>
+        <module>heap-model</module>
     </modules>
 
     <properties>
